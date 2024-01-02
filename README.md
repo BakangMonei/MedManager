@@ -10,25 +10,25 @@ Users are also  able to update their profile and add medications. <br/>
 Users receive reminders when it is time to take the medication.<br/>
 The app categorizes medication intake by month. <br/>
 Users can search for medication by name <br/>
-<a href="https://github.com/BakangMonei/MedManager/tree/master/final_apk">See apk here</a>
+<a href="https://github.com/BakangMonei/MedManager/tree/MoneiBKG/final_apk">See apk here</a>
 <br />
 
 <h3>MedManager Mockups</h3>
-<a href="https://github.com/BakangMonei/MedManager/tree/master/medmanager_ui">See all mockups here</a>
+<a href="https://github.com/BakangMonei/MedManager/tree/MoneiBKG/medmanager_ui">See all mockups here</a>
 <p>
-<img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/splash_screen.jpg" height="400"/>
-<img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/onboarding_screen_1.jpg" height="400"/>
-  <img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/onboarding_screen_2.jpg" height="400"/>
-<img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/onboarding_screen_3.jpg" height="400"/>
-  <img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/onboarding_screen_4.jpg" height="400"/>
-<img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/google_sign_in_screen.jpg" height="400"/>
-    <img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/personal_screen.jpg" height="400"/>
-<img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/view_medication_screen.jpg" height="400"/>
+<img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/splash_screen.jpg" height="400"/>
+<img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/onboarding_screen_1.jpg" height="400"/>
+  <img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/onboarding_screen_2.jpg" height="400"/>
+<img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/onboarding_screen_3.jpg" height="400"/>
+  <img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/onboarding_screen_4.jpg" height="400"/>
+<img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/google_sign_in_screen.jpg" height="400"/>
+    <img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/personal_screen.jpg" height="400"/>
+<img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/view_medication_screen.jpg" height="400"/>
 
-  <img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/medication_list_screen_instances.jpg" height="400"/>
-<img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/categories_list_screen_instances.jpg" height="400"/>
-  <img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/new_medication_screen.jpg" height="400"/>
-<img src="https://github.com/BakangMonei/MedManager/blob/master/medmanager_ui/edit_profile_screen.jpg" height="400"/>
+  <img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/medication_list_screen_instances.jpg" height="400"/>
+<img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/categories_list_screen_instances.jpg" height="400"/>
+  <img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/new_medication_screen.jpg" height="400"/>
+<img src="https://github.com/BakangMonei/MedManager/blob/MoneiBKG/medmanager_ui/edit_profile_screen.jpg" height="400"/>
 </p>
 
 ## Security
@@ -37,7 +37,7 @@ If you discover any security related issues, please email bakangmonei2@gmail.com
 
 ## License
 
-MIT. Please see the [license file](https://github.com/BakangMonei/MedManager/blob/master/LICENSE) for more information.
+MIT. Please see the [license file](https://github.com/BakangMonei/MedManager/blob/MoneiBKG/LICENSE) for more information.
 
 ## Contributing
 
